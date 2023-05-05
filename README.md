@@ -5,7 +5,7 @@
 
 - 👨‍💻 My principal project at the moment is **BPSAManagementServices**
 
-- 📫 How to reach me **salvatore.m96@gmail.com**
+- 📫 How to reach me **salvatore.m96(at)gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
